@@ -7,3 +7,5 @@
 
 ## Descripción del Proyecto
 Este proyecto forma parte de un proceso de aprendizaje de la asignatura de *Entornos de Desarrollo*, del *CFGS DAW*,enfocado en comprender los fundamentos de **Git** (control de versiones local) y **GitHub** (colaboración remota).
+
+## Próximas mejoras
